@@ -28,6 +28,15 @@ Kafka cluster management, security protocols (mTLS, SASL/SCRAM), and distributed
 ### 📫 How to reach me  
 [LinkedIn](https://www.linkedin.com/in/ajay-kumar-a-b85667165/) | ajayakula504@gmail.com
 
+### 🛠️  Tech Stack
+- **Languages:** Python, Java, Bash, SQL
+- **Streaming:** Apache Kafka, Apache Zookeeper, Kafka Streams, Netflix Conductor, Apache Airflow
+- **Cloud:** Azure, GCP, AWS
+- **DevOps:** Jenkins, Ansible, Terraform, Docker, Kubernetes
+- **Security:** mTLS, SASL/SCRAM, OAuth 2.0, OpenID Connect
+
+
+
 ### ⚡ Fun fact  
 I’m passionate about optimizing data pipelines. I’m also a movie buff who loves exploring films from all genres and eras.
 
